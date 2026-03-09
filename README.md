@@ -2,13 +2,11 @@
 
 Analyzed a large banking dataset (500,000+ records) to identify the target market for a new credit card launch.
 
-## Overview
-
 - Performed **EDA** to explore customer behavior, spending patterns, and credit scores  
 - Cleaned and validated data, handled missing values and outliers  
 - Conducted **correlation analysis** to uncover relationships between variables  
 - Designed an **A/B testing framework** to evaluate the impact of the new credit card launch  
-- **Visualized key insights** using charts and plots to communicate trends effectively  
+- **Visualized key insights**, trends, and distributions using charts and plots to communicate findings effectively  
 
 ## Key Findings
 
