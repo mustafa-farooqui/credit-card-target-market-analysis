@@ -15,4 +15,4 @@ Data analysis project to identify the target market for a new credit card launch
 - Outlier detection
 - Exploratory data analysis
 - Correlation analysis
-- Ab testing
+- AB testing
