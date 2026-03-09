@@ -1,18 +1,20 @@
 # Credit Card Target Market Analysis
 
-Data analysis project to identify the target market for a new credit card launch using Python and statistical analysis.
+Analyzed a large banking dataset (500,000+ records) to identify the target market for a new credit card launch.
 
-## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+## Overview
 
-## Project Tasks
-- Data cleaning
-- Handling missing values
-- Outlier detection
-- Exploratory data analysis
-- Correlation analysis
-- AB testing
+- Performed **EDA** to explore customer behavior, spending patterns, and credit scores  
+- Cleaned and validated data, handled missing values and outliers  
+- Conducted **correlation analysis** to uncover relationships between variables  
+- Designed an **A/B testing framework** to evaluate the impact of the new credit card launch  
+- **Visualized key insights** using charts and plots to communicate trends effectively  
+
+## Key Findings
+
+- **18–25 age group** identified as a high-potential target segment  
+- A/B test showed a **statistically significant increase in average transaction amounts**, supporting a data-driven launch strategy  
+
+## Tools & Skills
+
+Python | Pandas | NumPy | Matplotlib | Seaborn | A/B Testing | Statistical Analysis | Data Visualization | Jupyter Notebook
